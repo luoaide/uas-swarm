@@ -1,0 +1,29 @@
+{
+    "node_id": 1,
+    "election_cycle": 4009,
+    "current_task": 1,
+
+    "report": {
+        "battery_voltage": 1,
+        "ALT": 1000,
+        "GPS_LONG": 111,
+        "GPS_LAT": 111,
+        "PAYPLOAD": TRUE,
+        
+    },
+
+    "swarm_tasks": [],
+    "requests": [
+        {
+            "type": "move",
+            "direction": "North",
+        },
+    ]
+    "recieved_nominations":[],
+
+    "received_reports": [
+        {
+
+        }
+    ]
+}

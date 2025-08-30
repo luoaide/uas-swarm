@@ -1,0 +1,6 @@
+lattice-endpoint: <LATTICE_ENDPOINT>
+environment-token: <ENVIRONMENT_TOKEN>
+sandboxes-token: <SANDBOXES_TOKEN>
+identifier: <UNIQUE_ID>
+
+number-nodes: 10 # This determines the # of time slots allocated.

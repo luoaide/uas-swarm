@@ -1,0 +1,37 @@
+{
+    "entityId": "ARCHANGEL_SWARM_X",
+    "description": "Quickstart example",
+    "isLive": true,
+    "expiryTime": "<YYYY-MM-DDThh:mm:ssTZD>",
+    "aliases": {
+        "name": "Simulated Archangel Swarm"
+    },
+    "milView": {
+        "disposition": "DISPOSITION_FRIENDLY",
+        "environment": "ENVIRONMENT_SURFACE"
+    },
+    "location": {
+        "position": {
+            "latitudeDegrees": 33.69447852698943,
+            "longitudeDegrees": -117.9173785693163,
+            "altitudeHaeMeters": 0
+        }
+    },
+    "taskCatalog": {
+      "taskDefinitions": [
+        {
+          "taskSpecificationUrl": "string"
+        }
+      ]
+    },
+    "ontology": {
+        "template": "TEMPLATE_TRACK",
+        "platformType": "Surface_Vessel",
+        "specificType": "N/A"
+    },
+    "provenance": {
+        "integrationName": "command_line_integration",
+        "dataType": "example_data_type",
+        "sourceUpdateTime": "<YYYY-MM-DDThh:mm:ssTZD>"
+    }
+}
